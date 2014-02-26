@@ -14,3 +14,7 @@ accesible programming language. this is a must have as well.
 and the file **statement.md** is a text file in the markdown format. look inside it
 for basic usage, and see [here](http://daringfireball.net/projects/markdown/)
 for an in depth tutorial of markdown.
+
+###Some notes
+- output for a given input must always be the same. explicitly stating that some 
+  sort of ordering is required in the output might be useful.
