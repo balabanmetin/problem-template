@@ -1,6 +1,6 @@
 Statement
 ---
-You are given two positive **a** and **b**. You have to calculate their sum.
+You are given two positive integers **a** and **b**. You have to calculate their sum.
 
 Input
 ---
